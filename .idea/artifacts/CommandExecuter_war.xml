@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CommandExecuter:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CMExecutor.war">
+      <element id="artifact" artifact-name="CommandExecuter:war exploded" />
+    </root>
+  </artifact>
+</component>
